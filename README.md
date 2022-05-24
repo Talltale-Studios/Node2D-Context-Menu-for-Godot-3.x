@@ -3,7 +3,7 @@ Adds a Context Menu for Node2D nodes (and node types that extend Node2D) in the 
 
 To open the Context Menu, select a Node2D node and then right click anywhere in the 2D editor's viewport.
 
-Note: The root node of the scene must be either a Node2D node or a Control node for the context menu to work.
+*Note: The root node of the scene must be of the "CanvasItem" base class (meaning Node2D and Control nodes, and any nodes that extend them) for the Context Menu to work.*
 
 ## Context Menu Features:
 - Move selected node to mouse position
