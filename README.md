@@ -15,6 +15,6 @@ To open the Context Menu, select a Node2D node and then right click anywhere in 
 
 
 ## Credits & License
-The credit for the original plugin, as well as most of this plugin's code, goes to [MightyPrinny](https://github.com/MightyPrinny) and their [Node 2D context menu for 2D scene editor](https://godotengine.org/asset-library/asset/596) plugin. As such, the original MIT license that was created by them is still intact and in effect.
+The credit for the original plugin, as well as most of this plugin's code, goes to [MightyPrinny](https://github.com/MightyPrinny) and their [Node 2D context menu for 2D scene editor](https://godotengine.org/asset-library/asset/596) plugin. As such, the original MIT license as it was created by them is still intact and in effect.
 
 I started out by copying their project and then set to work, cleaning up the code, removing redundant code and features, improving the existing features and expanding upon its features by adding new ones. I also improved the outputs of the actions and created an error message that would tell the user how to use the plugin in the correct way in the event of them doing something wrong.
